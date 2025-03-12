@@ -1,0 +1,346 @@
+    1  whoami
+    2  top
+    3  htop
+    4  df -h 
+    5  git config
+    6  git -v
+    7  git global
+    8  git config --global
+    9  git config --global user
+   10  git config --global user.name "Rumiia Kontsiialova"
+   11  git config --global user.name
+   12  git config --global user.email
+   13  git config --global "rumiia.kontsiyalova@gmail.com"
+   14  git config --list
+   15  git config --global user.email
+   16  git config --global user.email "rumiia.kontsiyalova@gmail.com"
+   17  git config --list
+   18  cd
+   19  ssh-keygen
+   20  cat .ssh
+   21  cat .ssh/id_ed25519.pub
+   22  [200~ssh ec2-user@linux.itcareerhub.de~
+   23  ssh ec2-user@linux.itcareerhub.de
+   24  ssh ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Rumiia/file .
+   25  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Rumiia/file .
+   26  ls
+   27  scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Rumiia/file .
+   28  ls
+   29  scp ec2-user@linux.itcareerhub.de:/home/AndreevV/tetris.sh .
+   30  scp ec2-user@linux.itcareerhub.de:/home//tetris.sh .
+   31  pwd
+   32  cd
+   33  [200~
+   34  ssh ec2-user@linux.itcareerhub.de
+   35  cd
+   36  ssh ec2-user@linux.itcareerhub.de
+   37  ssh ec2-user@linux.itcareerhub.de
+   38  ssh ec2-user@linux.itcareerhub.de
+   39  ssh ec2-user@linux.itcareerhub.de
+   40  ssh ec2-user@linux.itcareerhub.de
+   41  ssh ec2-user@linux.itcareerhub.de
+   42  echo "# Homework Linux" >> README.md
+   43  git init
+   44  git commit -m "add Homework folder"
+   45  git branch -M main
+   46  git remote add origin git@github.com:Rumiia-Kontsiialova/Linux.git
+   47  git push -u origin main
+   48  git remote -v
+   49  history
+   50  git status
+   51  git add .
+   52  git commit -m "add Homework folder"
+   53  git push -u origin main
+   54  cd
+   55  cat .ssh/id_ed25519.pub
+   56  echo "Hello" >> README.md
+   57  git init
+   58  git branch
+   59  ls -la
+   60  cd .git
+   61  ls -la
+   62  cd ..
+   63  git status
+   64  git add .
+   65  git status
+   66  git commit -m "add file README.md"
+   67  git branch -M main
+   68  git remote add origin git@github.com:Rumiia-Kontsiialova/test.git
+   69  git remote -v
+   70  git push -u origin main
+   71  ls -la
+   72  rm -rf .git
+   73  ls -la
+   74  touch file.txt
+   75  mkdir test_2
+   76  git status
+   77  git init
+   78  git status
+   79  git add README.md text.txt
+   80  git add README.md file.txt
+   81  git commit -m "add two files"
+   82  git branch -M main
+   83  git remote add origin git@github.com:Rumiia-Kontsiialova/test.git
+   84  git remote -v
+   85  git push -u origin main
+   86  git push
+   87  git push --set-upstream origin main
+   88  date >> README.md
+   89  ls
+   90  rm file.txt
+   91  git status
+   92  git add 
+   93  git add  .
+   94  git branch
+   95  ssh ec2-user@linux.itcareerhub.de
+   96  git init
+   97  git add forest.jpg
+   98  git commit -m "Добавлено изображение"
+   99  git commit -M main
+  100  git branch -M main
+  101  git remote add origin https://github.com/Rumiia-Kontsiialova/git_intro.git
+  102  git push -u origin main
+  103  ssh ec2-user@linux.itcareerhub.de
+  104  cd ~/Desktop/Linux/git_intro_test/
+  105  echo "# git_intro_test" >> README.md
+  106  pwd
+  107  ls -la
+  108  git status
+  109  git add .
+  110  git status
+  111  git commit -m "added smth new"
+  112  git branch
+  113  git remote add origin git@github.com:Rumiia-Kontsiialova/git_intro_test.git
+  114  git remote -v
+  115  git remote add origin git@github.com:Rumiia-Kontsiialova/git_intro_test.git
+  116  git push -u origin main
+  117  pwd
+  118  git init
+  119  touch text.txt file_test.txt file.txt
+  120  git add .
+  121  git status
+  122  git commut -m "add 3 file"
+  123  git branch
+  124  git branch -M main
+  125  git remote add origin git@github.com:Rumiia-Kontsiialova/new.git
+  126  git push -u origin main
+  127  git push -u origin main
+  128  git branch
+  129  git checkout -b test
+  130  git branch
+  131  git log
+  132  git commit -m "add 3 file"
+  133  git remote add origin git@github.com:Rumiia-Kontsiialova/git_intro.git
+  134  pwd
+  135  git init
+  136  touch file_test.txt file_test1.txt file_test2.txt
+  137  git commit -m "add 3 file"
+  138  git branch -M main
+  139  git remote add origin git@github.com:Rumiia-Kontsiialova/new2.git
+  140  git push -u origin main
+  141  git push -u origin master
+  142  git branch
+  143  git push -u origin main
+  144  git init
+  145  git add forest.jpg
+  146  git commit -m "added image"
+  147  git remote add origin git@github.com:Rumiia-Kontsiialova/git_intro.git
+  148  git push -u origin main
+  149  cd /opt/131224-wdm/Rumiia
+  150  cd opt/131224-wdm/
+  151  ssh ec2-user@linux.itcareerhub.de
+  152  ssh ec2-user@linux.itcareerhub.de
+  153  ssh ec2-user@linux.itcareerhub.de
+  154  ssh ec2-user@linux.itcareerhub.de
+  155   scp ec2-user@linux.itcareerhub.de:/opt/131224/wdm/Rumiia/myfirstbashscript.sh "C:/Users/ICH/Desktop/"
+  156   scp ec2-user@linux.itcareerhub.de:/opt/131224-wdm/Rumiia/myfirstbashscript.sh "C:/Users/ICH/Desktop/"
+  157  git init
+  158  git branch -m main
+  159  git checkout -b gitignore
+  160  git commit -m "added branch"
+  161  git remote add origin git@github.com:Rumiia-Kontsiialova/git-branch.git
+  162  git push -u origin main
+  163  git commit -m "added neu branch"
+  164  git remote add origin git@github.com:Rumiia-Kontsiialova/git-branch.git
+  165  git push -u origin main
+  166  git checkout main
+  167  git branch
+  168  cd ~/Desktop/git-branch
+  169  git init
+  170  git init
+  171  git remote add origin git@github.com:Rumiia-Kontsiialova/git-branch.git
+  172  git checkout -b gitignore
+  173  touch .gitignore
+  174  vi .gitiignore
+  175  ls
+  176  git init
+  177  git remote add origin git@github.com:Rumiia-Kontsiialova/git-branch.git
+  178  git branch -m main
+  179  git checkout -b gitignore
+  180  vi .gitignore
+  181  git add .gitignore
+  182  git add .gitignore 
+  183  git commit -m "Добавлен файл .gitignore в новую ветку gitignore"
+  184  git push -u origin main
+  185  git init
+  186  git remote add origin git@github.com:Rumiia-Kontsiialova/git-branch.git
+  187  git branch -M main
+  188  git checkout -b gitignore
+  189  git add .
+  190  git commit -m "added neu branch"
+  191  git push -u origin main
+  192  git init
+  193  touch text.txt
+  194  git add .
+  195  git status
+  196  git branch -M main
+  197  git remote add origin git@github.com:Rumiia-Kontsiialova/git-branch.git
+  198  git push -u origin main
+  199  git init
+  200  touch text.txt
+  201  git add .
+  202  git status
+  203  git commit -m "added 1 file"
+  204  git branch -M main
+  205  git remote add origin git@github.com:Rumiia-Kontsiialova/git-branch.git
+  206  git push -u origin main
+  207  git checkout -b gitignore
+  208  vi .gitignore
+  209  git add .
+  210  git status
+  211  git commit -m "added 1 file gitignore in neu branch"
+  212  git push -u origin main
+  213  git push -u origin gitignore
+  214  cd ~/Desktop/25februar
+  215  git init
+  216  touch text.txt file.txt 
+  217  git add .
+  218  git status
+  219  git commit -m "add 2 file"
+  220  git branch
+  221  git branch -M main
+  222  git branch
+  223  git remote add origin git@github.com:Rumiia-Kontsiialova/25februar.git
+  224  git push -u origin main
+  225  git chekout -b test
+  226  git checkout -b test
+  227  git branch
+  228  git log
+  229  touch text5.txt text6.txt
+  230  ls -la
+  231  rm text.txt
+  232  git status
+  233  git add .
+  234  git commit -m "add 2 text.file and deleted 1 text.txt"
+  235  git push -u origin test
+  236  git branch -d test
+  237  git branch -D test
+  238  git branch
+  239  git checkout <main>
+  240  git checkout main
+  241  git branch
+  242  git branch -D test
+  243  git branch 
+  244  ls -la
+  245  git status
+  246  git pull
+  247  git pull origin main
+  248  git status
+  249  ls -la
+  250  nano .gitignor
+  251  git status
+  252  git add .
+  253  git commit -m "added gitignor"
+  254  git push origin main
+  255  touch file5.jpg
+  256  git status
+  257  pwd
+  258  git init
+  259  git status
+  260  touch file5.jpg
+  261  ssh ec2-user@linux.itcareerhub.de
+  262  ssh ec2-user@linux.itcareerhub.de
+  263  X
+  264  ssh ec2-user@linux.itcareerhub.de
+  265  pwd
+  266  cd /opt/131224-wdm/
+  267  ssh ec2-user@linux.itcareerhub.de
+  268  ssh ec2-user@linux.itcareerhub.de
+  269  ssh ec2-user@linux.itcareerhub.de
+  270  ssh ec2-user@linux.itcareerhub.de
+  271  ssh ec2-user@linux.itcareerhub.de
+  272  history
+  273  ssh ec2-user@linux.itcareerhub.de
+  274  history
+  275  pwd
+  276  cd ~/Dektop
+  277  cd ~/Desktop
+  278  pwd
+  279  git clone git@github.com:Rumiia-Kontsiialova/110325.git
+  280  cd ~/Desktop/110325
+  281  ls -la
+  282  history
+  283  ssh ec2-user@linux.itcareerhub.de
+  284  cd ~/Desktop/110325/
+  285  git clone git@github.com:Rumiia-Kontsiialova/110325.git
+  286  ls -la
+  287  git rev-parse --show-toplevel
+  288  git chekout -b test
+  289  git checkout -b test
+  290  echo "added file txt">> file.txt 
+  291  git add file.txt
+  292  git commit -m "added file txt"
+  293  git push origin test
+  294  ssh ec2-user@linux.itcareerhub.de
+  295  ssh ec2-user@linux.itcareerhub.de
+  296  ssh ec2-user@linux.itcareerhub.de
+  297  ssh ec2-user@linux.itcareerhub.de
+  298  ssh ec2-user@linux.itcareerhub.de
+  299  pwd
+  300  ~/Desktop/
+  301  pwd
+  302  cd ~/Desktop/
+  303  git clone git@github.com:Rumiia-Kontsiialova/HW12.git
+  304  git checkout -b feature
+  305  git branch
+  306  git init
+  307  git branch -m main
+  308  git checkout -b feature
+  309  touch README.md
+  310  git add.
+  311  git add .
+  312  git commit -m "added file README"
+  313  cd ~/Desktop/
+  314  pwd
+  315  cd ~/Desktop/
+  316  git clone git@github.com:Rumiia-Kontsiialova/HW12.git
+  317  cd ~/Desktop/
+  318  git branch
+  319  git branch -m main
+  320  git init
+  321  git clone git@github.com:Rumiia-Kontsiialova/Homework12.git
+  322  git checkout -b feature
+  323  touch README.md
+  324  git add .
+  325  git add README.md
+  326  git commit -m "added new file README"
+  327  git push
+  328  git push origin feature
+  329  git commit --amend
+  330  pwd
+  331  cd ~/Desktop/
+  332  git branch -m main
+  333  git clone git@github.com:Rumiia-Kontsiialova/HW12.git
+  334  cd HW12/
+  335  git checkout -b feature
+  336  echo "New file" > README.md
+  337  git add .
+  338  git commit -m "added file README.md"
+  339  git push origin feature
+  340  git commit --amend
+  341  git push --force origin feature
+  342  git checkout main
+  343  git merge feature
+  344  git push origin main
+  345  history
+  346  history >> history.txt
